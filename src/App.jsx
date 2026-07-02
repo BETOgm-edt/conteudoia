@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { motion, useScroll, useTransform, AnimatePresence } from 'framer-motion';
 import { 
-  Play, Bot, Youtube, Instagram, Wand2, Layers, 
+  Play, Bot, Wand2, Layers, 
   ChevronDown, ArrowRight, Zap, TrendingUp, DollarSign,
   MonitorPlay, CheckCircle2, Video, BarChart
 } from 'lucide-react';
